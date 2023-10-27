@@ -1,5 +1,3 @@
-package specialTopics.proceduresFunctionsMethods;
-
 public class ExampleFunction {
 
   public static void main(String[] args) {

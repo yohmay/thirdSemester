@@ -1,5 +1,3 @@
-package specialTopics.repetitionStructure;
-
 public class Example {
   @Override
   public String toString() {

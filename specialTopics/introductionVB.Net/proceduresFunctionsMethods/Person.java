@@ -1,9 +1,7 @@
-package specialTopics.proceduresFunctionsMethods;
-
 public class Person {
 
   private String name;
-  private String document;
+  protected String document;
 
   public String getName() {
     return name;
